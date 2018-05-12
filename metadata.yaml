@@ -1,0 +1,36 @@
+_repo: The-Pools-of-Silence_26889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    alias: Stacpoole, Henry De Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: http://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: 'Go to top; Part One; Chapter I: A Lecture of Thenard''s; Chapter II:
+  Dr. Duthil; Chapter III: Captain Berselius; Chapter IV: Schaunard; Chapter V: Marseilles;
+  Part Two; Chapter VI: Matadi; Chapter VII: Yandjali; Chapter VIII: The Voice of
+  the Congo Forest; Chapter IX: Big Game; Chapter X: M''Bassa; Chapter XI: Andreas
+  Meeus; Chapter XII: Night at the Fort; Part Three; Chapter XIII: The Pools of Silence;
+  Chapter XIV: Behind the Mask; Chapter XV: The Punishment; Chapter XVI: Due South;
+  Chapter XVII: Sun-Washed Spaces; Chapter XVIII: Far into Elephant Land; Chapter
+  XIX: The Great Herd.'
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26889'
+  lccn: '10016389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Safaris -- Congo (Democratic Republic) -- Fiction'
+title: The Pools of Silence
+url: http://www.gutenberg.org/ebooks/26889
